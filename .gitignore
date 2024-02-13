@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Git Internals/*
+!/Git Internals/task/
+/Git Internals/task/*
+!/Git Internals/task/src
